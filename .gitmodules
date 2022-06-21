@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "idx2r"]
+	path = idx2r
+	url = https://github.com/edoffagne/idx2r
+	shallow = true
+	registered = true
